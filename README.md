@@ -1,14 +1,13 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Suyashi Singh
 
-I am a [Final Year Student] at [Manipal Institute of Technology].
+I am a Final Year Student at Manipal Institute of Technology.
 
-🌱 Currently learning [Machine Lerning, Full Stack Development and DSA].  
-📫 Reach me at: [suyashisinghh@gmail.com]
+🌱 Currently learning Machine Lerning, Full Stack Development and DSA.  
+📫 Reach me at: suyashisinghh@gmail.com
 
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-instagram-url)
 
 ## Tech Stack
 
