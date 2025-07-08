@@ -1,9 +1,9 @@
 # Hi 👋, I'm [Your Name]
 
-I am a [Your Role/Field] at [Your Institution/Company].
+I am a [Final Year Student] at [Manipal Institute of Technology].
 
-🌱 Currently learning [Your Current Focus].  
-📫 Reach me at: [your.email@example.com]
+🌱 Currently learning [Machine Lerning, Full Stack Development and DSA].  
+📫 Reach me at: [suyashisinghh@gmail.com]
 
 ## Contact Me
 
