@@ -1,7 +1,8 @@
-# Hi 👋, I'm Suyashi Singh
+ Hey there! 🚀 I'm Suyashi Singh
 
-I am a Final Year Student at Manipal Institute of Technology.
+Turning ☕ into code, breaking stuff (for science), and building cool things with machine learning and full-stack magic. If it’s new, challenging, or a bit quirky, you’ll probably find me tinkering with it. Let’s create something awesome together!
 
+🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 🌱 Currently learning Machine Lerning, Full Stack Development and DSA.  
 📫 Reach me at: suyashisinghh@gmail.com
 
