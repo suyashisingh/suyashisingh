@@ -2,7 +2,7 @@
 
 Turning ☕ into code, breaking stuff (for science), and building cool things with machine learning and full-stack magic. If it’s new, challenging, or a bit quirky, you’ll probably find me tinkering with it. Let’s create something awesome together!
 
-🌐 Portfolio: https://your-portfolio-link.com](https://suyashiportfolio.netlify.app/
+🌐 Portfolio: https://suyashiportfolio.netlify.app/
 🌱 Currently learning Machine Lerning, Full Stack Development and DSA.  
 📫 Reach me at: suyashisinghh@gmail.com
 
